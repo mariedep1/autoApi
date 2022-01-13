@@ -1,2 +1,2 @@
 # autoApi
-Api créé pour le projet fil rouge avec Symfony
+Api créé pour le projet fil rouge CentreAuto avec Symfony
